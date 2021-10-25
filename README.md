@@ -7,11 +7,13 @@
 - Gmail: thalita_silva@usp.br
 - Telefone: (11) 93752-3634.
 - <a href="https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/">Linkedin</a>.
-
+<div>
+  <a href = "https://github.com/ThalitaRibeirao" > </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaRibeirao&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
 
 <h2>Sobre mim </h2>
-
 
 - 🏠 Tenho 18 anos e moro em São Paulo.
 - 👩🏽‍🔬 Sou formada em Técnica em Química pela ETEC.
@@ -20,22 +22,11 @@
 - 📝 Atualmente, sou Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
 - 🎗 Também faço parte das entidades estudantis <b>Include</b> e <b>DataGirls Neuron</b>.
 
-
-
- 
-<div>
-  <a href = "https://github.com/ThalitaRibeirao" > </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThalitaRibeirao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaRibeirao&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-
-
-<br>
-
 <div style = "display: inline_block">
   <!-- Unity //-->
   <img align = "center" height = "30" widht = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   
+
   <!-- Vs Code //-->
   <img align = "center" height = "30" widht = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   
@@ -79,4 +70,11 @@
   <img align = "center" height = "25" widht = "25" src="https://github.com/ThalitaRibeirao/Assets/blob/main/Perfil/PBI.png" />
 
 </div>
+<br> 
+
+
+
+ 
+
+
 
