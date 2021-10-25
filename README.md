@@ -1,13 +1,13 @@
 
 
 <h1> Olá, humano </h1>
-<img height="150em" align = "right" src = "https://github.com/ThalitaRibeirao/Assets/blob/main/Perfil/Coffe.gif">
+
 <p> É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos. </p>
 
 - Gmail: thalita_silva@usp.br
 - Telefone: (11) 93752-3634.
 - <a href="https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/">Linkedin</a>.
-
+  
 <div>
   <a href = "https://github.com/ThalitaRibeirao" > </a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaRibeirao&layout=compact&langs_count=7&theme=nightowl"/>
