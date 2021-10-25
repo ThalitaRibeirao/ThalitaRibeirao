@@ -1,7 +1,8 @@
 
 
 <h1> Olá, humano </h1>
-<p>É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos.</p>
+<img height="150em" align = "right" src = "https://github.com/ThalitaRibeirao/Assets/blob/main/Perfil/Coffe.gif">
+É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos.
 
 - Gmail: thalita_silva@usp.br
 - Telefone: (11) 93752-3634.
@@ -29,6 +30,7 @@
 </div>
 
 
+<br>
 
 <div style = "display: inline_block">
   <!-- Unity //-->
