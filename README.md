@@ -21,7 +21,7 @@
 - 🥉 Medalhista de bronze na Olimpíada Nacional de Ciências.
 - 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP Ribeirão Preto.
 - 📝 Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
-- 🎗  Membra das entidades estudantis <b>Include</b> e <b>DataGirls Neuron</b>.
+- 🎗 Membra das entidades estudantis <b>Include</b> e <b>DataGirls Neuron</b>.
 
 <div style = "display: inline_block">
   <!-- Unity //-->
