@@ -17,11 +17,11 @@
 <h2>Sobre mim </h2>
 
 - 🏠 Tenho 18 anos e moro em São Paulo.
-- 👩🏽‍🔬 Sou formada em Técnica em Química pela ETEC.
-- 🥉 Sou medalhista de bronze na Olimpíada Nacional de Ciências.
-- 👩🏽‍💻 Sou estudante do <b>Bacharelado em Ciências da Computação</b>, na USP Ribeirão Preto.
-- 📝 Atualmente, sou Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
-- 🎗 Também faço parte das entidades estudantis <b>Include</b> e <b>DataGirls Neuron</b>.
+- 👩🏽‍🔬 Formada em Técnica em Química pela ETEC.
+- 🥉 Medalhista de bronze na Olimpíada Nacional de Ciências.
+- 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP Ribeirão Preto.
+- 📝 Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
+- 🎗  Membra das entidades estudantis <b>Include</b> e <b>DataGirls Neuron</b>.
 
 <div style = "display: inline_block">
   <!-- Unity //-->
