@@ -1,12 +1,11 @@
 
 
-<h1> Olá, humano </h1>
+#  Olá, humano :wave: 
+ É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos. :coffee:
 
-<p> É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos. </p>
-
-- Gmail: thalita_silva@usp.br
+- Email: thalita_silva@usp.br
 - Telefone: (11) 93752-3634.
-- <a href="https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/">Linkedin</a>.
+- Linkedin: [Thalita Silva]("https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/")
   
 <div>
   <a href = "https://github.com/ThalitaRibeirao" > </a>
@@ -19,7 +18,7 @@
 - 🏠 Tenho 18 anos e moro em São Paulo.
 - 👩🏽‍🔬 Formada em Técnica em Química pela ETEC.
 - 🥉 Medalhista de bronze na Olimpíada Nacional de Ciências.
-- 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP Ribeirão Preto.
+- 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP São Paulo.
 - 📝 Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
 - 🎗 Membra da entidade estudantil <b>DataGirls Neuron</b>.
 
