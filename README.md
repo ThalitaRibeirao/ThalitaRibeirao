@@ -4,8 +4,8 @@
  É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos. :coffee:
 
 - Email: thalita_silva@usp.br
-- Telefone: (11) 93752-3634.
-- Linkedin: [Thalita Silva]("https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/")
+- Telefone: (11) 93752-3634
+- Linkedin: <a href = "https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/"> Thalita Silva </a>
   
 <div>
   <a href = "https://github.com/ThalitaRibeirao" > </a>
