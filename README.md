@@ -18,7 +18,7 @@
 - 👩🏽‍🔬 Formada em Técnica em Química pela ETEC.
 - 🥉 Medalhista de bronze na Olimpíada Nacional de Ciências.
 - 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP São Paulo.
-- 📝 Auxiliar de Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
+- 📝 Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
 - 🎗 Membra da entidade estudantil <b>DataGirls Neuron</b>.
 
 <div style = "display: inline_block">
@@ -69,7 +69,7 @@
   <img align = "center" height = "25" widht = "25" src="https://github.com/ThalitaRibeirao/Assets/blob/main/Perfil/PBI.png" />
 
 </div>
-<br> 
+
 
 
 
