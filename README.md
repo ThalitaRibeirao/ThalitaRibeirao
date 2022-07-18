@@ -1,10 +1,10 @@
 
 
-#  Olá, humano :wave: 
- É um prazer tê-lo por aqui. Se aconchegue e aprecie alguns de meus projetos. :coffee:
+#  Hello, human :wave: 
+ It's a pleasure to have you here. Sit down and read some of my projects. :coffee:
 
 - Email: thalita_silva@usp.br
-- Telefone: (11) 93752-3634
+- Number: +55 (11) 93752-3634
 - Linkedin: <a href = "https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/"> Thalita Silva </a>
   
 <div>
@@ -12,14 +12,14 @@
 </div>
 
 
-<h2>Sobre mim </h2>
+<h2>About me</h2>
 
-- 🏠 Tenho 18 anos e moro em São Paulo.
-- 👩🏽‍🔬 Formada em Técnica em Química pela ETEC.
-- 🥉 Medalhista de bronze na Olimpíada Nacional de Ciências.
-- 👩🏽‍💻 Estudante do <b>Bacharelado em Ciências da Computação</b>, na USP São Paulo.
-- 📝 Analista de Dados na <a href="https://landing.solfacil.com.br/">Solfácil</a>. 
-- 🎗 Membra da entidade estudantil <b>DataGirls Neuron</b>.
+- 🏠 I'm 19 years old and live at São Paulo, Brasil.
+- 👩🏽‍🔬 Graduated in Chemistry Technique by ETEC.
+- 🥉 Bronze Medal at the National Science Olympiad.
+- 👩🏽‍💻 Studying <b>Computer Science</b> at USP São Paulo.
+- 📝 Web programming at <a href="https://www.magroove.com/">Magroove</a>. 
+- 🎗 Entity Marketing leader in <b>DataGirls Neuron</b>.
 
 <div style = "display: inline_block">
   <!-- Unity //-->
@@ -69,11 +69,3 @@
   <img align = "center" height = "25" widht = "25" src="https://github.com/ThalitaRibeirao/Assets/blob/main/Perfil/PBI.png" />
 
 </div>
-
-
-
-
- 
-
-
-
