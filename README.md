@@ -19,7 +19,7 @@
 - 🥉 Bronze Medal at the National Science Olympiad.
 - 👩🏽‍💻 Studying <b>Computer Science</b> at USP São Paulo.
 - 📝 Web programming at <a href="https://www.magroove.com/">Magroove</a>. 
-- 🎗 Entity Marketing leader in <b>DataGirls Neuron</b>.
+- 🎗 Entity Marketing leader at <b>DataGirls Neuron</b>.
 
 <div style = "display: inline_block">
   <!-- Unity //-->
