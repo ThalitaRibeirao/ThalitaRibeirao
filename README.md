@@ -1,7 +1,7 @@
 
 
 #  Hello, human :wave: 
- It's a pleasure to have you here. Sit down and read some of my projects. :coffee:
+ It's a pleasure to have you here. Sit down and enjoy some of my projects. :coffee:
 
 - Email: thalita_silva@usp.br
 - Number: +55 (11) 93752-3634
