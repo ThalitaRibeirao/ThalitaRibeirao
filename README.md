@@ -9,7 +9,7 @@
   
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaRibeirao&layout=compact&theme=midnight-purple"/>
-  // <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThalitaRibeirao&show_icons=true&theme=midnight-purple"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThalitaRibeirao&show_icons=true&theme=midnight-purple"/> //-->
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThalitaRibeirao&theme=midnight-purple"/>
 </div>
 
