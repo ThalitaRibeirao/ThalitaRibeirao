@@ -3,7 +3,7 @@
 #  Hello, human :wave: 
  It's a pleasure to have you here. Sit down and enjoy some of my projects. :coffee:
 
-- Email: thalita_silva@usp.br
+- Email: thalitasilva.jobs@gmail.com
 - Number: +55 (11) 91069-3352
 - Linkedin: <a href = "https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/"> Thalita Silva </a>
   
@@ -16,12 +16,11 @@
 
 <h2>About me</h2>
 
-- 🏠 I'm 19 years old and live at São Paulo, Brasil.
-- 👩🏽‍🔬 Graduated in Chemistry Technique by ETEC.
-- 🥉 Bronze Medal at the National Science Olympiad.
-- 👩🏽‍💻 Studying <b>Computer Science</b> at USP São Paulo.
-- 📝 Web programming at <a href="https://www.magroove.com/">Magroove</a>. 
-- 🎗 Entity Marketing leader at <b>DataGirls Neuron</b>.
+- 🏠 I live at São Paulo, Brasil.
+- 👩🏽‍💻 Studying <b>Computer Science</b> at USP São Paulo (2021 - 2025).
+- 📝 2 years of experience with Web Fullstack Programming. 
+- 🥉 Bronze Medal at the National Science Olympiad (2019).
+
 
 <div style = "display: inline_block">
   <!-- Linux //-->
