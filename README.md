@@ -7,7 +7,7 @@
 - Number: +55 (11) 91069-3352
 - Linkedin: <a href = "https://www.linkedin.com/in/thalita-alves-da-silva-b55a251b6/"> Thalita Silva </a>
   
-<div>
+<div style="display: flex; justify-content: space-around;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalitaRibeirao&layout=compact&theme=midnight-purple"/>
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThalitaRibeirao&show_icons=true&theme=midnight-purple"/> //-->
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThalitaRibeirao&theme=midnight-purple"/>
