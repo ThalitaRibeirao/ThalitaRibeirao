@@ -18,7 +18,7 @@
 
 - 🏠 I live at São Paulo, Brasil.
 - 👩🏽‍💻 Studying <b>Computer Science</b> at USP São Paulo (2021 - 2025).
-- 📝 Working with Web Fullstack Development since 2021.
+- 📝 Working with SAP Support since 2024.
 - 🥉 Bronze Medal at the National Science Olympiad (2019).
 
 
